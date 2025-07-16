@@ -20,10 +20,13 @@
 </p>
 
 ###
-
+### 📫 Conecte-se comigo
 <div align="left">
   <a href="https://www.linkedin.com/in/andreyrsy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/andreyrsy">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
