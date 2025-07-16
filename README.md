@@ -1,5 +1,6 @@
-<h2 align="center"> 🪶Andrey Rosa.\n Olá! Sejam bem vindos ao meu Github!</h2>
-<h3 align="center">Desenvolvedor Backend | Ciencias da Computacao | Entusiasta em IA </h3>
+<h1 align="center">🪶 Andrey Rosa</h1>
+<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
+<p align="center"><i>Desenvolvedor Backend | Ciencias da Computacao | Entusiasta em IA </i></p>
 
 ###
 
